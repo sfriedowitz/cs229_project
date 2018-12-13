@@ -16,5 +16,3 @@ Nasal: 		https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE80796
 
 Affimetrix Dataset (Required for gene lookup):
 http://www.affymetrix.com/Auth/analysis/downloads/na36/wtgene/HuGene-1_1-st-v1.na36.hg19.probeset.csv.zip
-
-Please move to data directory and rename as "probeset.csv". 
